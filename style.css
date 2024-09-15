@@ -5,7 +5,8 @@ body{
 }
 ul>li{
     color:rebeccapurple;
-    font-size: xx-large;
+    font-size: large;
+    text-align: left;
 }
 .home-image{
     width: 250px;
