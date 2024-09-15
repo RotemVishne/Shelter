@@ -11,3 +11,8 @@ ul>li{
     width: 250px;
     border: 1px solid black;
 }
+.copyrights{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
